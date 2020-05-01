@@ -3,11 +3,11 @@
 let g:breeze#palette           = {}
 let g:breeze#palette.fg        = ['#F8F8F2', 253]
 
-let g:breeze#palette.bglighter = ['#424450', 238]
-let g:breeze#palette.bglight   = ['#343746', 237]
-let g:breeze#palette.bg        = ['#282A36', 236]
-let g:breeze#palette.bgdark    = ['#21222C', 235]
-let g:breeze#palette.bgdarker  = ['#191A21', 234]
+let g:breeze#palette.bglighter = ['#424450', 236]
+let g:breeze#palette.bglight   = ['#343746', 235]
+let g:breeze#palette.bg        = ['#282A36', 234]
+let g:breeze#palette.bgdark    = ['#21222C', 233]
+let g:breeze#palette.bgdarker  = ['#191A21', 232]
 
 " let g:breeze#palette.comment   = ['#6272A4',  61]
 let g:breeze#palette.comment   = ['#767676', 243]
