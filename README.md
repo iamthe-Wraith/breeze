@@ -2,6 +2,8 @@
 
 > A dark, orange and blue theme for [Vim](http://www.vim.org/).
 
+![Screenshot](./screenshot.png)
+
 ## Install
 
 All instructions can be found at
